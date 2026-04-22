@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "G-Net-34-EF04": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
